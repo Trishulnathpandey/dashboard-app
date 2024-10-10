@@ -1,0 +1,2 @@
+
+This React application uses react-router-dom for routing. It consists of a sidebar for navigation and multiple routes for different sections of the application, including personal details, documents, education, certifications, languages, work experience, and employer details. The main layout has two parts: the Sidebar component and a main-content area that switches between various components (like PersonalDetails, Documents, etc.) based on the current route. Styling is applied from an external index.css file.
